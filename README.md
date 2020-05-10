@@ -16,14 +16,14 @@ That being said.  If you download the Source Codes from this Repo they will not 
 
 #  Source Codes in this Repo:
 
-################################################################################################
-################################################################################################
+
 
 ##     Godot 3.2:
 
 ###    Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel. 
 
 ###    https://godotengine.org
+###    https://godotengine.org/download/
        
 ################################################################################################
 
@@ -42,7 +42,7 @@ That being said.  If you download the Source Codes from this Repo they will not 
 
 #  Software NOT in this Repo:
 
-################################################################################################
+
 
 ##     CONNECTOR:
 
@@ -54,22 +54,46 @@ That being said.  If you download the Source Codes from this Repo they will not 
      
 ##     GIMP:
 
-###     GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.
+###    GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.
 
 ###    Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins. 
 
 ###    https://www.gimp.org/
 ###    https://www.gimp.org/downloads/
 
+################################################################################################
+
+##     INKSCAPE:
+
+###   Whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery, Inkscape is for you!
+
+###    https://inkscape.org/
+###    https://inkscape.org/release/inkscape-master/?latest=1
+
+################################################################################################
+
+##     SCRIBUS:
+
+###   Open-Source Desktop Publishing
+
+###    https://www.scribus.net/
+###    https://www.scribus.net/downloads/stable-branch/
+
+################################################################################################
+
+##     SwatchBooker
+
+###    Swatch book viewer/convertor/editor    
+
+###    http://www.selapa.net/swatchbooker/   
+###    https://launchpad.net/swatchbooker/+download
+
 ################################################################################################      
- 
+################################################################################################  
 
+#      Contact Us:
 
-
-
-## Contact Us:
-
-phantori@hotmail.com
+##     phantori@hotmail.com
 
 ################################################################################################################################################################################################################################################################################################################################################################################################ 
 
