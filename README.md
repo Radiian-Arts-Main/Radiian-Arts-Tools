@@ -36,6 +36,13 @@ That being said.  If you download the Source Codes from this Repo they will not 
        
 ################################################################################################ 
 
+##     MakeHuman
+
+###    An Open-Source Tool for Creating 3D Humans                     
+
+###    http://www.makehumancommunity.org/
+###    https://download.tuxfamily.org/makehuman/nightly/
+
 
 
 ################################################################################################
