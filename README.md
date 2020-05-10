@@ -32,6 +32,7 @@ That being said.  If you download the Source Codes from this Repo they will not 
 ###    Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing, motion tracking and video editing.                      
 
 ###    http://www.blender.org
+###    https://builder.blender.org/download/
        
 ################################################################################################ 
 
@@ -51,10 +52,17 @@ That being said.  If you download the Source Codes from this Repo they will not 
 
 ################################################################################################
      
-       
-       
-Gimp
-InkScape
+##     GIMP:
+
+###     GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.
+
+###    Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins. 
+
+###    https://www.gimp.org/
+###    https://www.gimp.org/downloads/
+
+################################################################################################      
+ 
 
 
 
