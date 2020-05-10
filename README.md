@@ -1,4 +1,4 @@
-### Welcome to Radiian-Arts-Tools
+# Welcome to Radiian-Arts-Tools
 
 ![Radiian Yellow](https://raw.githubusercontent.com/Radiian-Arts-Main/Radiian-Arts-Assets/master/Promotional/PNG/Github-logo-Main-Yellow.png)
 
@@ -20,17 +20,19 @@ Material-Maker
 
 ################################################################################################
 
-###  Software NOT in this Repo:
+#  Software NOT in this Repo:
 
-##   CONNECTOR:
+################################################################################################
 
-#      Free and visual assets management for 3d artists.
+##     CONNECTOR:
+
+       Free and visual assets management for 3d artists.
 
        https://www.designconnected.com/connecter/
 
+################################################################################################
 
-
-Blender 2.90
+##     Blender 2.90
 Gimp
 InkScape
 
