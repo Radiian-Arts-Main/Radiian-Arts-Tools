@@ -11,11 +11,31 @@ The only Tools that will be downloadable from this Repo will be those that are n
 That being said.  If you download the Source Codes from this Repo they will not contain an executable of any sort.  This means that you will not be able to use them unless you build them from source.  When possible I will provide the How-To's for this or provide the links to the original publisher when necessary.
 
 ################################################################################################
+################################################################################################
+################################################################################################
 
-##  Source Codes in this Repo:
+#  Source Codes in this Repo:
 
-Godot 3.2
-Material-Maker
+################################################################################################
+################################################################################################
+
+##     Godot 3.2:
+
+       Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel. 
+
+       https://godotengine.org
+       
+################################################################################################
+
+##     Blender 2.90
+
+       Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline-modeling, rigging,                       
+       animation, simulation, rendering, compositing, motion tracking and video editing.
+
+       http://www.blender.org
+       
+################################################################################################ 
+
 
 
 ################################################################################################
@@ -31,8 +51,9 @@ Material-Maker
        https://www.designconnected.com/connecter/
 
 ################################################################################################
-
-##     Blender 2.90
+     
+       
+       
 Gimp
 InkScape
 
