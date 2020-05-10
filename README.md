@@ -21,18 +21,18 @@ That being said.  If you download the Source Codes from this Repo they will not 
 
 ##     Godot 3.2:
 
-       Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel. 
+###    Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel. 
 
-       https://godotengine.org
+###    https://godotengine.org
        
 ################################################################################################
 
 ##     Blender 2.90
 
-       Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline-modeling, rigging,                       
-       animation, simulation, rendering, compositing, motion tracking and video editing.
+###    Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline-modeling, rigging,                       
+###    animation, simulation, rendering, compositing, motion tracking and video editing.
 
-       http://www.blender.org
+###    http://www.blender.org
        
 ################################################################################################ 
 
@@ -46,9 +46,9 @@ That being said.  If you download the Source Codes from this Repo they will not 
 
 ##     CONNECTOR:
 
-       Free and visual assets management for 3d artists.
+###    Free and visual assets management for 3d artists.
 
-       https://www.designconnected.com/connecter/
+###    https://www.designconnected.com/connecter/
 
 ################################################################################################
      
