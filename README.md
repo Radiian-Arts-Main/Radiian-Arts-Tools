@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+# Welcome to Radiian-Arts-Tools
 
-You can use the [editor on GitHub](https://github.com/Radiian-Arts-Main/Radiian-Arts-Studio-Tools/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Radiian Yellow](https://raw.githubusercontent.com/Radiian-Arts-Main/Radiian-Arts-Assets/master/Promotional/PNG/Github-logo-Main-Yellow.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##  What is this stuff for?
 
-### Markdown
+The Tools posted here are specifically for use at Radiian-Arts for the Bio-Creationist Kit.  No need to credit Radiian-Arts or anything.  I would advise you to check each Software's original License just to make sure.  As far as I know, you are free to do as you wish with any of these Tools.  All of the Assets we make have been created with these Open-Source Tools.  If you are interested in the Assets that we are currently using then please see our Assets Repo: https://github.com/Radiian-Arts-Main/Radiian-Arts-Assets. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The only Tools that will be downloadable from this Repo will be those that are necessary because of a Specific Version or whatever.  I will be keeping a currated list on this Read Me of all of the Tools that we use, what we use them for, and where they can be downloaded.  It would not be reasonable to include all of the source codes here.  
 
-```markdown
-Syntax highlighted code block
+That being said.  If you download the Source Codes from this Repo they will not contain an executable of any sort.  This means that you will not be able to use them unless you build them from source.  When possible I will provide the How-To's for this or provide the links to the original publisher when necessary.
 
-# Header 1
-## Header 2
-### Header 3
+################################################################################################
+################################################################################################
+################################################################################################
 
-- Bulleted
-- List
+#  Source Codes in this Repo:
 
-1. Numbered
-2. List
+################################################################################################
+################################################################################################
 
-**Bold** and _Italic_ and `Code` text
+##     Godot 3.2:
 
-[Link](url) and ![Image](src)
-```
+###    Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###    https://godotengine.org
+       
+################################################################################################
 
-### Jekyll Themes
+##     Blender 2.90
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Radiian-Arts-Main/Radiian-Arts-Studio-Tools/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+###    Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing, motion tracking and video editing.                      
 
-### Support or Contact
+###    http://www.blender.org
+       
+################################################################################################ 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+################################################################################################
+
+#  Software NOT in this Repo:
+
+################################################################################################
+
+##     CONNECTOR:
+
+###    Free and visual assets management for 3d artists.
+
+###    https://www.designconnected.com/connecter/
+
+################################################################################################
+     
+       
+       
+Gimp
+InkScape
+
+
+
+
+## Contact Us:
+
+phantori@hotmail.com
+
+################################################################################################################################################################################################################################################################################################################################################################################################ 
+
